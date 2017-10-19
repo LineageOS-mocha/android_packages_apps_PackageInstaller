@@ -40,4 +40,9 @@
         <item name="android:textColorPrimary">@android:color/white</item>
     </style>
 
+    <style name="installappprogress_pixel_theme_dark">
+        <item name="android:windowActionBar">false</item>
+        <item name="android:windowNoTitle">true</item>
+    </style>
+
 </resources>
